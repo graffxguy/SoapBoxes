@@ -183,7 +183,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2358E2431ADDDC4A00695080 /* Build configuration list for PBXProject "SoapBoxes" */;
+			buildConfigurationList = 2358E2431ADDDC4A00695080 /* Build configuration list for PBXProject "TaskIt" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -411,7 +411,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2358E2431ADDDC4A00695080 /* Build configuration list for PBXProject "SoapBoxes" */ = {
+		2358E2431ADDDC4A00695080 /* Build configuration list for PBXProject "TaskIt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2358E2651ADDDC4A00695080 /* Debug */,
